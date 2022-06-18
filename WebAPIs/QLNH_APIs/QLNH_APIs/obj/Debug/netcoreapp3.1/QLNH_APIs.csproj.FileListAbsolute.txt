@@ -6,7 +6,6 @@ F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.runtimeconfig.dev.json
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.dll
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.pdb
-F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csprojAssemblyReference.cache
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.AssemblyInfoInputs.cache
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.AssemblyInfo.cs
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csproj.CoreCompileInputs.cache
@@ -49,3 +48,9 @@ F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\Syst
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csproj.CopyComplete
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\hoctap\QuanLyNhaHang\WebAPIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csprojAssemblyReference.cache
