@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace QLNH_APIs.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class ItemController : Controller
     {
         private readonly ApplicationDbContext _context;
